@@ -8,6 +8,7 @@ the author. You write freely what your character does; the game master
 improvises and brings you back to the story.
 
 ![Les Grimoires game screen](screen1.png)
+![Les Grimoires game screen](screen2.png)
 
 ## Try it
 
